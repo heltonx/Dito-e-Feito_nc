@@ -17,8 +17,11 @@ Feito 2) nc -lvp 9817
 
 
 Forms of connections:
+
 browser (ip + port)
+
 scan apps (like wifiMan)
+
 nmap comands (like nmap -sV -p [port] [host])
 
 
