@@ -7,8 +7,11 @@ Dito 1) Open the 1111 port in listening mode
 Dito 2) Open the 1111 port in listening mode, with verbose
 
 Dito 3) 
+
 a) In the server: Open the 1111 port in listening mode, with verbose;
+
 b) In a "client" machine, connect to the "server";
+
 c) Say "hello" from client and "world" from server.
 
 
