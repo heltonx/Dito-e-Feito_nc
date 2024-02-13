@@ -12,7 +12,7 @@ a) In the server: Open the 1111 port in listening mode, with verbose;
 
 b) In a "client" machine, connect to the "server";
 
-c) Say "hello" from client and "world" from server.
+c) Say "hello" from client and answer "world" from server.
 
 
 ===== ======= =============== ============ ========= ========
@@ -22,6 +22,9 @@ Feito 1) nc -lp 1111
 
 Feito 2) nc -lvp 1111
 
+Feito 3) 
+a) nc -lvp 1111
+b) nc 192.168.zzz.yyy 1111
 
 
 ===== ======= =============== ============ ========= ========
