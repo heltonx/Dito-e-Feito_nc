@@ -1,6 +1,8 @@
 # Dito-e-Feito_nc
 katas for the celebred connection linux tool
 
+last practice: 14/03/24 14:00
+
 
 Dito 1) Open the 1111 port in listening mode
 
@@ -23,8 +25,10 @@ Feito 1) nc -lp 1111
 Feito 2) nc -lvp 1111
 
 Feito 3) 
+
 a) nc -lvp 1111
-b) nc 192.168.zzz.yyy 1111
+
+b) nc 192.168.zzz.yyy 1111 (from here a terminal to chat is avaiable)
 
 
 ===== ======= =============== ============ ========= ========
