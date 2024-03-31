@@ -1,5 +1,5 @@
 # Dito-e-Feito_nc
-katas for the celebred connection linux tool
+katas for the famous connection linux tool
 
 last practice: 14/03/24 14:00
 
