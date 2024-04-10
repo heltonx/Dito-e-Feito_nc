@@ -1,4 +1,5 @@
 # Dito-e-Feito_nc
+
 katas for the famous connection linux tool
 
 last practice: 14/03/24 14:00
@@ -17,7 +18,7 @@ b) In a "client" machine, connect to the "server";
 c) Say "hello" from client and answer "world" from server.
 
 
-===== ======= =============== ============ ========= ========
+============================================================
 
 
 Feito 1) nc -lp 1111
@@ -31,7 +32,7 @@ a) nc -lvp 1111
 b) nc 192.168.zzz.yyy 1111 (from here a terminal to chat is avaiable)
 
 
-===== ======= =============== ============ ========= ========
+============================================================
 
 
 Forms of connections:
